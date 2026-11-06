@@ -4,7 +4,7 @@ An interactive prototype for a take-home task: how a cycle-tracking app could br
 
 **Open it:** https://prosolkin.github.io/flo-health-records/ (password in the submission email)
 
-Add `?talk` to the URL for the presentation view: full-screen scenes over the prototype, with the live demo inside (→ reveals the next line, then the next scene; ← back; Esc shows the prototype).
+Add `?talk` to the URL for the presentation view: full-screen scenes over the prototype, with the live demo inside (→ next scene; ← back; Esc shows the prototype).
 
 The page shows a phone on the left and, on the right, what happens behind each screen. It covers the full v1 flow: entry point, consent per purpose, the platform permission, import, the result in cycle context, a result outside the lab's range, a sensitive result, a guided walk-through, sharing with a clinician, and disconnect-and-delete.
 
